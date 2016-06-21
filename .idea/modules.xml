@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataBase/library.iml" filepath="$PROJECT_DIR$/DataBase/library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyFramework.iml" filepath="$PROJECT_DIR$/MyFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ViewLibrary/viewlibrary.iml" filepath="$PROJECT_DIR$/ViewLibrary/viewlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XmwApp/XmwApp.iml" filepath="$PROJECT_DIR$/XmwApp/XmwApp.iml" />
+    </modules>
+  </component>
+</project>
